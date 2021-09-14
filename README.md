@@ -8,4 +8,5 @@ Intalls dependencies.
 
 npm run start
 Runs the app on the local server.
+
 Opens http://localhost:3000
